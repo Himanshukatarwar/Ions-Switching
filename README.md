@@ -1,2 +1,4 @@
 # Ions-Switching
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/Himanshukatarwar/Ions-Switching/blob/main/uin.png)
+
+
